@@ -12,8 +12,8 @@ red_Hist  = (img , 2 ,None , 256 , (0,255))
 
 print(red_Hist)
 
-#cv2.imshow("AAA",red_Hist)
+cv2.imshow("AAA",img)
 
-#cv2.waitKey(0)
+cv2.waitKey(0)
 
-#cv2.destroyAllWindows()
+cv2.destroyAllWindows()

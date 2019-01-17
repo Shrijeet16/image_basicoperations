@@ -1,0 +1,16 @@
+photo is simply the light reflected by the object and captured by a camera a grayscale camera records the intensity of the light reflected by the object
+
+img.copy() --- copies the objected image to the assingned variable of image
+
+we can make images using the function of np.zeros or np.ones but the numbers assingned to these matrix are floating point numbers
+
+we can convert the datatype of numpy array by passing another argument which is like uint3
+
+the matrix for the rotation is below
+
+video is a sequence of image and shown by fps frames per second
+ 
+
+
+
+

@@ -1,4 +1,4 @@
-import numpy as mp
+import numpy as np
 import cv2
 
 cv2.namedWindow("normal")
@@ -12,7 +12,7 @@ cap = cv2.VideoCapture(0) #why is argument passed as zero
 #3) framerate
 #4) resolution
 
-filename = "output.avi"
+filename = "output.mp4"
 codec = cv2.VideoWriter_fourcc('X','V','I','D')
 
 #different codec available are
